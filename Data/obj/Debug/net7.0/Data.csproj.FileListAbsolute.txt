@@ -1,0 +1,14 @@
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\bin\Debug\net7.0\Data.deps.json
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\bin\Debug\net7.0\Data.dll
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\bin\Debug\net7.0\Data.pdb
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\obj\Debug\net7.0\Data.dll
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\obj\Debug\net7.0\Data.pdb
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+C:\Users\helisson.dearaujo\source\repos\APLICACAOWEB\Data\obj\Debug\net7.0\ref\Data.dll
